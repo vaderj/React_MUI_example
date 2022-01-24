@@ -1,6 +1,6 @@
 # Installed via the following:
 
-`npx create-react-app inventory_countdown_webapp`
+`npx create-react-app React_example`
 
 `npm i --save typescript jquery @babel/core`
 
